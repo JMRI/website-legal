@@ -19,7 +19,7 @@
 <body class="secondlevel">
 <div id="container">
 
-<!--#include virtual="/Header" -->
+<!--#include virtual="/Header.shtml" -->
 <!--#include virtual="/k/Sidebar" -->
  <div id="mainContent">
   <div class="list">
@@ -514,7 +514,7 @@ Intellectual Property Section.
    </div> <!-- closes .list -->
 
   <hr class="hide">
-<!--#include virtual="/Footer" -->
+<!--#include virtual="/Footer.shtml" -->
 
  </div> <!-- closes #mainContent-->
 </div> <!-- closes #mBody--> 

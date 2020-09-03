@@ -19,7 +19,7 @@
 <body class="secondlevel">
 <div id="container">
 
-<!--#include virtual="/Header" -->
+<!--#include virtual="/Header.shtml" -->
 <!--#include virtual="/k/Sidebar" -->
  <div id="mainContent">
   <div class="list">
@@ -520,7 +520,7 @@ mailing list at SourceForge.net to get a brief note when things happen.
 
 
   <hr class="hide">
-<!--#include virtual="/Footer" -->
+<!--#include virtual="/Footer.shtml" -->
 
  </div> <!-- closes #mainContent-->
 </div> <!-- closes #mBody--> 
