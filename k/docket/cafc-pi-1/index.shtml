@@ -19,7 +19,7 @@
 <body class="secondlevel">
 <div id="container">
 
-<!--#include virtual="/Header" -->
+<!--#include virtual="/Header.shtml" -->
 <!--#include virtual="/k/Sidebar" -->
  <div id="mainContent">
   <div class="list">
@@ -999,7 +999,7 @@ Panel: 0805H on May 7, 2008.                                                    
 <!-------------- End Pacer pages --------------------->
 <hr>
 
-<!--#include virtual="/Footer" -->
+<!--#include virtual="/Footer.shtml" -->
 
  </div> <!-- closes #mainContent-->
 </div> <!-- closes #mBody--> 

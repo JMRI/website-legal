@@ -20,7 +20,7 @@
 <div id="container">
 
 <p class="skipLink"><a href="#mainContent" accesskey="2">Skip to main content</a></p>
-<!--#include virtual="/Header" -->
+<!--#include virtual="/Header.shtml" -->
 <!--#include virtual="/k/Sidebar" -->
 
  <hr class="hide"> 
@@ -212,7 +212,7 @@ of the printable ones.
    </div> <!-- closes .list -->
 
   <hr class="hide">
-<!--#include virtual="/Footer" -->
+<!--#include virtual="/Footer.shtml" -->
 
  </div> <!-- closes #mainContent-->
 </div> <!-- closes #mBody--> 
